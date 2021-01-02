@@ -1,1 +1,8 @@
+//Here is my first project on GitHup,though I don't know how to use the plane.
+include<stdio.h>
+void main()
+{
+  int a,b;
+  
 
+}
